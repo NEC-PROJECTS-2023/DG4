@@ -1,7 +1,10 @@
 # DG4
 CAB FARE PREDICTION
 
-Team Members : S.Sushma Priyanka, G.V.L Sai Roshini, SD.Sabeera Begum
+Team Members :
+1.S.Sushma Priyanka
+2.G.V.L Sai Roshini
+3.SD.Sabeera Begum
 
 About Project : Cab rides paint a vibrant picture of life in the city. The millions of rides taken each month can
 provide insight into traffic patterns, road blockage, or large-scale events that attract many people. With ride
@@ -14,4 +17,8 @@ only data which would be available at the beginning farid was used.
     This includes pick up and drop off coordinates, trip distance, start time, number of passengers.
 Regression models were used to predict fare amount. Now it becomes really important to manage their data
 properly to come up with new business ideas to get best results. In this scenario, earn most revenues. So, it
-becomes really important estimate the fare prices accurately
+becomes really important estimate the fare prices accurately.
+
+Dataset Link:
+https://www.kaggle.com/datasets/pankajkumar90/cab-fare-dataset?select=test_cab_fare.csv
+https://www.kaggle.com/datasets/pankajkumar90/cab-fare-dataset?select=train_cab_fare.csv
