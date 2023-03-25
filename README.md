@@ -2,9 +2,12 @@
 CAB FARE PREDICTION
 
 Team Members :
-1.S.Sushma Priyanka
-2.G.V.L Sai Roshini
-3.SD.Sabeera Begum
+
+1. S.Sushma Priyanka
+
+2. G.V.L Sai Roshini
+
+3. SD.Sabeera Begum
 
 About Project : Cab rides paint a vibrant picture of life in the city. The millions of rides taken each month can
 provide insight into traffic patterns, road blockage, or large-scale events that attract many people. With ride
